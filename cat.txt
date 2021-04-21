@@ -1,1 +1,2 @@
 HI Cat!
+Other collaborator has added another feature for cat. 
