@@ -1,2 +1,3 @@
 HI Cat!
+Added fur.
 Other collaborator has added another feature for cat. 

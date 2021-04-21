@@ -1,2 +1,3 @@
 Hi Dog!
+Added eyes and ears. 
 Added another dog feature.
