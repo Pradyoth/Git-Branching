@@ -2,3 +2,4 @@ Hi Dog!
 Added eyes and ears. 
 Added another dog feature.
 Added one local commit in dog.
+Added remote dog changes.
